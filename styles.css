@@ -317,7 +317,6 @@ button:hover {
 .trends {
     display: grid;
     grid-template-columns: 0fr 0.5fr;
-    border: 1px solid red;
     justify-items: center;
     justify-content: start;
     align-items: center;
