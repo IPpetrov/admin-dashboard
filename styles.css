@@ -39,7 +39,7 @@ ul {
 }
 
 .logo > img:hover, .search-icon, .logo > h1:hover, .main-profile-icon, .corner-profile-icon, .corner-name, .corner-alert-icon {
-    cursor: grab;
+    cursor: pointer;
     border-radius: 50%;
 }
 
@@ -54,7 +54,7 @@ li {
 }
 
 li:hover {
-    cursor: grab;
+    cursor: pointer;
     background-color: #0b73ac;
 }
 
@@ -97,7 +97,7 @@ li, .logo > h1 {
 
 .main-profile-icon:hover, .corner-profile-icon:hover, .trends-profile-icon:hover {
     filter: brightness(115%);
-    cursor: grab;
+    cursor: pointer;
 }
 
 
@@ -198,7 +198,7 @@ button {
 
 button:hover {
     background-color: #0b73ac;
-    cursor: grab;
+    cursor: pointer;
 }
 
 
@@ -291,7 +291,7 @@ button:hover {
 }
 
 .card-icons > img:hover {
-    cursor: grab;
+    cursor: pointer;
     filter: invert(0.5);
 }
 
@@ -329,5 +329,5 @@ button:hover {
 }
 
 .trends-name:hover {
-    cursor: grab;
+    cursor: pointer;
 }
